@@ -2013,7 +2013,7 @@ h6 {
 }
 
 .block-title__image {
-  background-image: url(../images/loader.png);
+  /* background-image: url(../images/loader.png); */
   background-size: 100%;
   width: 24px;
   height: 25px;
@@ -7531,8 +7531,9 @@ h6 {
 
 @media (min-width: 1200px) {
   .feature-one__summery {
+    text-align: center;
     margin-top: -30px;
-    max-width: 515px;
+    /* max-width: 515px; */
     margin-bottom: 40px;
   }
 }
@@ -8485,3 +8486,7 @@ h6 {
   }
 }
 /*# sourceMappingURL=main.css.map */
+
+.block-title{
+  text-align: center;
+}
