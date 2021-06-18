@@ -8496,3 +8496,12 @@ h6 {
     display: none;
   }
 }
+
+.process-img{
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.process-img img{
+  width: 1000px;
+}
