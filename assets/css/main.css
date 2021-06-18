@@ -8495,6 +8495,9 @@ h6 {
   .about-two__images .image-2{
     display: none;
   }
+  .process-img img{
+    width: 500px;
+  }
 }
 
 .process-img{
