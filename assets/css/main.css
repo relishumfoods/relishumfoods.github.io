@@ -6079,7 +6079,7 @@ h6 {
 # Services
 --------------------------------------------------------------*/
 .service-one {
-  background-color: var(--thm-primary);
+  background-color: #55a969;
   padding-top: 80px;
   padding-bottom: 50px;
   position: relative;
@@ -6089,7 +6089,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-primary-up.png);
+  background-image: url(../images/shapes/bg-1.png);
   position: absolute;
   top: -16px;
   left: 0;
@@ -8489,4 +8489,10 @@ h6 {
 
 .block-title{
   text-align: center;
+}
+
+@media only screen and (max-width: 768px){
+  .about-two__images .image-2{
+    display: none;
+  }
 }
