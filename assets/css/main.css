@@ -8496,7 +8496,7 @@ h6 {
     display: none;
   }
   .process-img img{
-    width: 500px;
+    width: 410px !important;
   }
 }
 
