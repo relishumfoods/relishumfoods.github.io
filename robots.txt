@@ -12,4 +12,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: relishumfoods.com
+Sitemap: thefortifiedfood.com

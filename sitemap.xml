@@ -8,18 +8,28 @@
 
 
 <url>
-  <loc>https://www.relishumfoods.com/</loc>
-  <lastmod>2021-06-21T05:27:00+00:00</lastmod>
+  <loc>https://thefortifiedfood.com/</loc>
+  <lastmod>2021-08-14T12:57:33+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.relishumfoods.com/contact</loc>
-  <lastmod>2021-06-21T05:27:00+00:00</lastmod>
+  <loc>https://thefortifiedfood.com/blog</loc>
+  <lastmod>2021-08-14T12:57:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.relishumfoods.com/index</loc>
-  <lastmod>2021-06-21T05:27:00+00:00</lastmod>
+  <loc>https://thefortifiedfood.com/contact</loc>
+  <lastmod>2021-08-14T12:57:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thefortifiedfood.com/fortified-rice</loc>
+  <lastmod>2021-08-14T12:57:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thefortifiedfood.com/index</loc>
+  <lastmod>2021-08-14T12:57:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
